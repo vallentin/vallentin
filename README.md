@@ -7,7 +7,7 @@
     <a href="https://stackoverflow.com/users/2470818/vallentin" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
     <a href="https://stackexchange.com/users/2879629/vallentin?tab=accounts" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white" alt="Stack Exchange" /></a>
     <a href="https://twitter.com/VallentinDev" target="_blank"><img src="https://img.shields.io/badge/-@VallentinDev-1C9CEA?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://www.reddit.com/user/MrVallentin" target="_blank"><img src="https://img.shields.io/badge/-/u/MrVallentin-FF5700?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="https://www.reddit.com/user/VallentinDev" target="_blank"><img src="https://img.shields.io/badge/-/u/VallentinDev-FF5700?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
 I'm Christian Vallentin, a developer from Denmark with an MSc in Software Engineering.
